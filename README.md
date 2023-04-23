@@ -1,4 +1,4 @@
-# Higher Order Function Basics
+# Higher Order Function Basics (Map, CompactMap, FlatMap)
 
 ## Map is a higher-order function in Swift that transforms a collection of elements by applying a transformation function to each element, and returns a new collection containing the transformed elements in the same order as the original collection.
 ```Swift
